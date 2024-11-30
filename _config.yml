@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Jason Rothman
+email: Jason.rothman@ucr.edu
+description: Academic webpage of Jason Rothman
 baseurl: ""
 url: ""
 
@@ -12,14 +12,15 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Jason Rothman<br/>
+  Assistant Professor of Teaching in Microbiology<br/>
+  University of California, Riverside
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  2317 Webber Hall<br/>
+  University of California, Riverside<br/>
+  900 University Ave.<br/>
+  Riverside, CA 92521
 
 contact: >
   <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
